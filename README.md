@@ -14,9 +14,9 @@ Windows | Linux | MacOS |
 
 ## SDK使用
 ### 第一步 下载SDK
-下载[最新版本viot-utils](https://github.com/v-iot/viot-utils/releases)
+下载[viot-utils](https://github.com/v-iot/viot-utils/releases)
 
-下载[最新版本viot-tag](https://github.com/v-iot/viot-tag/releases)
+下载[viot-tag](https://github.com/v-iot/viot-tag/releases)
 
 ### 第二步 代码示例
 ```
